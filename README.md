@@ -5,7 +5,7 @@
 
 
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6A00FF,70:9D4EDD,100:C77DFF&height=220&section=header&text=Reshma%20Thomas&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Software%20Developer&descSize=20&descAlignY=58&descColor=e0aaff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:6A00FF,70:9D4EDD,100:C77DFF&height=220&section=header&text=Reshma%20&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Software%20Developer&descSize=20&descAlignY=58&descColor=e0aaff" />
 
 
 
